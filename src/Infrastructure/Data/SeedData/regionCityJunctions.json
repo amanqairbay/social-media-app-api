@@ -1,0 +1,187 @@
+﻿[
+  {
+    "RegionId": 1,
+    "CityId": 1
+  },
+  {
+    "RegionId": 2,
+    "CityId": 2
+  },
+  {
+    "RegionId": 3,
+    "CityId": 3
+  },
+  {
+    "RegionId": 4,
+    "CityId": 4
+  },
+  {
+    "RegionId": 4,
+    "CityId": 5
+  },
+  {
+    "RegionId": 4,
+    "CityId": 6
+  },
+  {
+    "RegionId": 4,
+    "CityId": 7
+  },
+  {
+    "RegionId": 5,
+    "CityId": 8
+  },
+  {
+    "RegionId": 5,
+    "CityId": 9
+  },
+  {
+    "RegionId": 5,
+    "CityId": 10
+  },
+  {
+    "RegionId": 6,
+    "CityId": 11
+  },
+  {
+    "RegionId": 6,
+    "CityId": 12
+  },
+  {
+    "RegionId": 7,
+    "CityId": 13
+  },
+  {
+    "RegionId": 7,
+    "CityId": 14
+  },
+  {
+    "RegionId": 8,
+    "CityId": 15
+  },
+  {
+    "RegionId": 8,
+    "CityId": 16
+  },
+  {
+    "RegionId": 8,
+    "CityId": 17
+  },
+  {
+    "RegionId": 9,
+    "CityId": 18
+  },
+  {
+    "RegionId": 9,
+    "CityId": 19
+  },
+  {
+    "RegionId": 9,
+    "CityId": 20
+  },
+  {
+    "RegionId": 10,
+    "CityId": 21
+  },
+  {
+    "RegionId": 10,
+    "CityId": 22
+  },
+  {
+    "RegionId": 10,
+    "CityId": 23
+  },
+  {
+    "RegionId": 11,
+    "CityId": 24
+  },
+  {
+    "RegionId": 11,
+    "CityId": 25
+  },
+  {
+    "RegionId": 11,
+    "CityId": 26
+  },
+  {
+    "RegionId": 12,
+    "CityId": 27
+  },
+  {
+    "RegionId": 12,
+    "CityId": 28
+  },
+  {
+    "RegionId": 13,
+    "CityId": 29
+  },
+  {
+    "RegionId": 13,
+    "CityId": 30
+  },
+  {
+    "RegionId": 13,
+    "CityId": 31
+  },
+
+  {
+    "RegionId": 14,
+    "CityId": 32
+  },
+  {
+    "RegionId": 14,
+    "CityId": 33
+  },
+  {
+    "RegionId": 15,
+    "CityId": 34
+  },
+  {
+    "RegionId": 15,
+    "CityId": 35
+  },
+  {
+    "RegionId": 16,
+    "CityId": 36
+  },
+  {
+    "RegionId": 16,
+    "CityId": 37
+  },
+  {
+    "RegionId": 17,
+    "CityId": 38
+  },
+  {
+    "RegionId": 17,
+    "CityId": 39
+  },
+  {
+    "RegionId": 17,
+    "CityId": 40
+  },
+  {
+    "RegionId": 18,
+    "CityId": 41
+  },
+  {
+    "RegionId": 18,
+    "CityId": 42
+  },
+  {
+    "RegionId": 19,
+    "CityId": 43
+  },
+  {
+    "RegionId": 19,
+    "CityId": 44
+  },
+  {
+    "RegionId": 20,
+    "CityId": 45
+  },
+  {
+    "RegionId": 20,
+    "CityId": 46
+  }
+]

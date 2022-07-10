@@ -1,0 +1,186 @@
+﻿[
+  {
+    /* // Nur-Sultan */
+    "Name": "Nur-Sultan" // 1
+  },
+  {
+    /* // Almaty */
+    "Name": "Almaty" // 2
+  },
+  {
+    // Shymkent
+    "Name": "Shymkent" // 3
+  },
+  {
+    // Abay obl
+    "Name": "Semei"
+  },
+  {
+    // Abay obl
+    "Name": "Aqzhar"
+  },
+  {
+    // Abay obl
+    "Name": "Ayagoz"
+  },
+  {
+    // Abay obl
+    "Name": "Kurchatov"
+  },
+  {
+    // Almaty obl
+    "Name": "Kaskelen"
+  },
+  {
+    // Almaty obl
+    "Name": "Konaev"
+  },
+  {
+    // Almaty obl
+    "Name": "Talgar"
+  },
+  {
+    // Atyrau obl
+    "Name": "Atyrau"
+  },
+  {
+    // Atyrau obl
+    "Name": "Kulsary"
+  },
+  {
+    // Aqmola obl
+    "Name": "Kokshetau"
+  },
+  {
+    // Aqmola obl
+    "Name": "Shuchinsk"
+  },
+  {
+    // Aqtobe obl
+    "Name": "Aqtobe"
+  },
+  {
+    // Aqtobe obl
+    "Name": "Shalqar"
+  },
+  {
+    // Aqtobe obl
+    "Name": "Khromtau"
+  },
+  {
+    // BQO obl
+    "Name": "Oral"
+  },
+  {
+    // BQO obl
+    "Name": "Aqsai"
+  },
+  {
+    // BQO obl
+    "Name": "Zhympity"
+  },
+  {
+    // Mangystau obl
+    "Name": "Aqtau"
+  },
+  {
+    // Mangystau obl
+    "Name": "Zhanaozen"
+  },
+  {
+    // Mangystau obl
+    "Name": "Fort Shevchenko"
+  },
+  {
+    // Pavlodar obl
+    "Name": "Pavlodar"
+  },
+  {
+    // Pavlodar obl
+    "Name": "Ekibastuz"
+  },
+  {
+    // Pavlodar obl
+    "Name": "Bayanaul"
+  },
+  {
+    // Qaragandy obl
+    "Name": "Balqash"
+  },
+  {
+    // Qaragandy obl
+    "Name": "Qaragandy"
+  },
+  {
+    // Qaragandy obl
+    "Name": "Temirtau"
+  },
+  {
+    // Qostanai obl
+    "Name": "Qostanai"
+  },
+  {
+    // Qostanai obl
+    "Name": "Rudnyi"
+  },
+  {
+    // Qyzylorda obl
+    "Name": "Qyzylorda"
+  },
+  {
+    // Qyzylorda obl
+    "Name": "Baiqonyr"
+  },
+  {
+    // ShQO obl
+    "Name": "Oskemen"
+  },
+  {
+    // ShQO obl
+    "Name": "Ridder"
+  },
+  {
+    // SQO obl
+    "Name": "Petropavlovsk"
+  },
+  {
+    // SQO obl
+    "Name": "Aryqbalyq"
+  },
+  {
+    // Turkestan obl
+    "Name": "Turkestan"
+  },
+  {
+    // Turkestan obl
+    "Name": "Arys"
+  },
+  {
+    // Turkestan obl
+    "Name": "Zhetisai"
+  },
+  {
+    // Ulytau obl
+    "Name": "Zhezqazgan"
+  },
+  {
+    // Ulytau obl
+    "Name": "Satapayev"
+  },
+  {
+    // Zhambyl obl
+    "Name": "Taraz"
+  },
+  {
+    // Zhambyl obl
+    "Name": "Otar"
+  },
+  {
+    // Zhetisu obl
+    "Name": "Taldyqorgan"
+  },
+  {
+    // Zhetisu obl
+    "Name": "Zharkent"
+  }
+]
